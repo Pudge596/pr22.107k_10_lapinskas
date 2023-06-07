@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">pr10-lapinskas</string>
+    <string name="cookbook">CookBook</string>
+    <string name="cookie">TODO</string>
+    <string name="next">Next</string>
+    <string name="time">10:09</string>
 </resources>
